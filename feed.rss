@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Kiss Linux blog by Xar-Me-Ison</title><link>http://example.com/blog/index.html</link>
+<description>A software technology blog about Kiss Linux</description><language>en</language>
+<lastBuildDate></lastBuildDate>
+<pubDate></pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Kiss Linux - a minimalistic Linux distribution
+</title><description><![CDATA[
+
+<p>Kiss Linux is a minimalist and lightweight Linux distribution that prioritises simplicity and user control. It follows the Keep It Simple, Stupid" philosophy and aims to provide a stable and customisable platform for advanced uers.</p>
+
+<p>Tags: <a href='tag_kiss-linux.html'>kiss-linux</a>, <a href='tag_software-technology.html'>software-technology</a>, <a href='tag_sw-blog.html'>sw-blog</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/22005.html</link>
+<guid>http://example.com/blog/./22005.html</guid>
+<dc:creator>Charalampos Makrylakis (P2019214)</dc:creator>
+<pubDate>./22005.html fb02a22bf36966e1 255 ef53 4096 2425165 1526914 1398326 622592 479356</pubDate></item>
+</channel></rss>
